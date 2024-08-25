@@ -1,0 +1,32 @@
+@font-face {
+  font-family: league;
+  src: url("./assets/font.ttf");
+}
+
+:root{
+  --primary_color:#e69100;
+}
+
+body{
+  font-family: league, sans-serif !important;
+}
+
+button{
+  min-width: 150px;
+
+}
+
+.primary_button{
+  background-color: var(--primary_color) !important;
+  color: white !important;
+}
+
+.secondary_button{
+  background-color: black;
+  color: white !important;
+}
+
+
+.primary_background{
+  background-color: var(--primary_color);
+}
