@@ -1,6 +1,5 @@
 import { bg_img } from "./compoents/css_functions"
 import Marquee from "react-fast-marquee"
-import { ThyStarRating } from "thy-star-rating"
 import Star from "./compoents/StarRating"
 
 const Site = () => {
