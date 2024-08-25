@@ -1,6 +1,7 @@
 import { bg_img } from "./compoents/css_functions"
 import Marquee from "react-fast-marquee"
 import Star from "./compoents/StarRating"
+import {FloatingWhatsApp} from "react-floating-whatsapp"
 
 const Site = () => {
     return (
@@ -211,6 +212,7 @@ const Site = () => {
             <div className="text-center primary_background ">
                 <span className="text-white">Made By <a className="text-white" href="https://aurorasystems.co.zw">Aurora</a></span>
             </div>
+        <FloatingWhatsApp phoneNumber="+263777839595" accountName="Ristian Consultancy" avatar="https://ngratesc.sirv.com/ristian/logo.png"/>
         </div>
     )
 }
