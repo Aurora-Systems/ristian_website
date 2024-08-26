@@ -9,7 +9,7 @@ const Site = () => {
             <div className="bg-black d-flex justify-content-between p-2 text-white  align-items-center">
                 <div>
                     <img src="https://ngratesc.sirv.com/ristian/logo.png" width={60} className="img-fluid" />
-                    <span className="fs-5 custom_font">Ristian Consulting</span>
+                    <span className="fs-5 custom_font">Ristian Consultancy</span>
                 </div>
                 <div>
                     <a href="tel:+263777839595" target="_blank"><button className="btn text-white primary_button">Call Us</button></a>
