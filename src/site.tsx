@@ -18,7 +18,7 @@ const Site = () => {
             <div className="d-flex  justify-content-center align-items-center" style={{ ...bg_img("https://ngratesc.sirv.com/ristian/home.jpg"), height: "90vh" }}>
                 <div className="text-center bg-light bg-opacity-50 p-5 rounded">
                     <h1>Your Gateway to Global Opportunities</h1>
-                    <p className="f fst-italic">"Connecting Talent with Top Employers in the UK,Poland,Canada, and Australia"</p>
+                    <p className="f fst-italic">"Connecting Talent with Top Employers in the UK,Poland,Canada, Bulgaria, Lithuania, and Australia"</p>
                     <a href="https://wa.me/263777839595" target="_blank"><button className="btn primary_button">Find Out More</button></a>
                 </div>
             </div>
@@ -26,7 +26,7 @@ const Site = () => {
                 <div className="row">
                     <div className="col-sm  primary_background text-white p-5">
                         <h1>Welcome to Ristian Consultancy</h1>
-                        <p>At Ristian Consultancy, we specialize in connecting talented professionals with leading companies across the UK, Poland, Canada, and Australia. With over 100 partner companies, we offer a wide range of job placements tailored to fit your skills, educational background, and career aspirations.</p>
+                        <p>At Ristian Consultancy, we specialize in connecting talented professionals with leading companies across the UK, Poland, Canada, Bulgaria, Lithuania, and Australia. With over 100 partner companies, we offer a wide range of job placements tailored to fit your skills, educational background, and career aspirations.</p>
                         <a href="https://wa.me/263777839595" target="_blank"><button className="btn secondary_button">Get In Touch</button></a>
                     </div>
                     <div className="col-sm  p-5" style={{ ...bg_img("https://ngratesc.sirv.com/ristian/home_second.jpg"), minHeight: "50vh" }}>
@@ -95,7 +95,7 @@ const Site = () => {
                     </div>
                     <div className="col-sm bg-black p-3 rounded">
                         <p className="fw-bold">Employment Procurement</p>
-                        <p>We specialize in matching talented individuals with top companies across the UK, Poland, Canada, and Australia. Our recruitment service is personalized to ensure that we find the right fit for both the candidate and the employer. We work with over 100 companies in various industries, offering opportunities in healthcare, IT, education, hospitality, construction, and more. Whatever your field, we have the connections and expertise to help you find your next role.</p>
+                        <p>We specialize in matching talented individuals with top companies across the UK, Poland, Canada, Bulgaria, Lithuania, and Australia. Our recruitment service is personalized to ensure that we find the right fit for both the candidate and the employer. We work with over 100 companies in various industries, offering opportunities in healthcare, IT, education, hospitality, construction, and more. Whatever your field, we have the connections and expertise to help you find your next role.</p>
                     </div>
                 </div>
                 </div>
