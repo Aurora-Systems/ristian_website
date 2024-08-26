@@ -12,14 +12,14 @@ const Site = () => {
                     <span className="fs-5 custom_font">Ristian Consultancy</span>
                 </div>
                 <div>
-                    <a href="tel:+263777839595" target="_blank"><button className="btn text-white primary_button">Call Us</button></a>
+                    <a href="tel:+263771939493" target="_blank"><button className="btn text-white primary_button">Call Us</button></a>
                 </div>
             </div>
             <div className="d-flex  justify-content-center align-items-center" style={{ ...bg_img("https://ngratesc.sirv.com/ristian/home.jpg"), height: "90vh" }}>
                 <div className="text-center bg-light bg-opacity-50 p-5 rounded">
                     <h1>Your Gateway to Global Opportunities</h1>
                     <p className="f fst-italic">"Connecting Talent with Top Employers in the UK,Poland,Canada, Bulgaria, Lithuania, and Australia"</p>
-                    <a href="https://wa.me/263777839595" target="_blank"><button className="btn primary_button">Find Out More</button></a>
+                    <a href="https://wa.me/263771939493" target="_blank"><button className="btn primary_button">Find Out More</button></a>
                 </div>
             </div>
             <div className="container-fluid">
@@ -27,7 +27,7 @@ const Site = () => {
                     <div className="col-sm  primary_background text-white p-5">
                         <h1>Welcome to Ristian Consultancy</h1>
                         <p>At Ristian Consultancy, we specialize in connecting talented professionals with leading companies across the UK, Poland, Canada, Bulgaria, Lithuania, and Australia. With over 100 partner companies, we offer a wide range of job placements tailored to fit your skills, educational background, and career aspirations.</p>
-                        <a href="https://wa.me/263777839595" target="_blank"><button className="btn secondary_button">Get In Touch</button></a>
+                        <a href="https://wa.me/263771939493" target="_blank"><button className="btn secondary_button">Get In Touch</button></a>
                     </div>
                     <div className="col-sm  p-5" style={{ ...bg_img("https://ngratesc.sirv.com/ristian/home_second.jpg"), minHeight: "50vh" }}>
 
@@ -40,7 +40,7 @@ const Site = () => {
                         <div>
                             <h1>Our Expertise</h1>
                             <p>We are dedicated to finding the perfect match between candidates and employers. Whether you're an experienced professional or just starting your career, our extensive network spans various industries, ensuring that we have the right opportunity for you.</p>
-                            <a href="https://wa.me/263777839595" target="_blank"><button className="btn primary_button">Get In Touch</button></a>
+                            <a href="https://wa.me/263771939493" target="_blank"><button className="btn primary_button">Get In Touch</button></a>
                         </div>
 
                     </div>
@@ -229,13 +229,13 @@ const Site = () => {
                     <br />
                     Send an email to <a href="mailto:info@ristianconsultancy.co.zw">info@ristianconsultancy.co.zw</a>
                     <br/>
-                    Call on <a href="tel:+263777839595">+263 77 783 9595</a>
+                    Call on <a href="tel:+263771939493">+263 77 783 9595</a>
                 </p>
             </div>
             <div className="text-center primary_background ">
                 <span className="text-white">Made By <a className="text-white" href="https://aurorasystems.co.zw">Aurora</a></span>
             </div>
-        <FloatingWhatsApp phoneNumber="+263777839595" accountName="Ristian Consultancy" avatar="https://ngratesc.sirv.com/ristian/logo.png"/>
+        <FloatingWhatsApp phoneNumber="+263771939493" accountName="Ristian Consultancy" avatar="https://ngratesc.sirv.com/ristian/logo.png"/>
         </div>
     )
 }
