@@ -9,7 +9,7 @@ const Site = () => {
             <div className="bg-black d-flex justify-content-between p-2 text-white  align-items-center">
                 <div>
                     <img src="https://ngratesc.sirv.com/ristian/logo.png" width={60} className="img-fluid" />
-                    <span className="fs-5">Ristian Consulting</span>
+                    <span className="fs-5 custom_font">Ristian Consulting</span>
                 </div>
                 <div>
                     <a href="tel:+263777839595" target="_blank"><button className="btn text-white primary_button">Call Us</button></a>
@@ -77,6 +77,26 @@ const Site = () => {
                         </svg>
                     </div>
                 </div>
+            </div>
+            <div className="container-fluid primary_background text-white">
+                <div>
+                    <h1 className="fw-bold display-2 text-center pt-5 pb-5">Our Services</h1>
+                </div>
+                <div className=" pb-4">
+
+                <div className="row gap-3 m-4">
+                    <div className="col-sm bg-black p-3 rounded">
+                        
+                    </div>
+                    <div className="col-sm bg-black p-3 rounded">
+
+                    </div>
+                    <div className="col-sm bg-black p-3 rounded">
+
+                    </div>
+                </div>
+                </div>
+
             </div>
             <div className="text-center bg-black pt-5 pb-5">
                 <h1 className="fw-bold display-2 text-white">

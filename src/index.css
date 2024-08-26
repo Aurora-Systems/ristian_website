@@ -1,6 +1,6 @@
 @font-face {
-  font-family: league;
-  src: url("./assets/font.ttf");
+  font-family: baskervviller;
+  src: url("./assets/font_two.ttf");
 }
 
 :root{
@@ -8,7 +8,11 @@
 }
 
 body{
-  font-family: league, sans-serif !important;
+  font-family: baskervviller, sans-serif !important;
+}
+
+.custom_font{
+  font-family: baskervviller;
 }
 
 
