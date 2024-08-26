@@ -84,15 +84,18 @@ const Site = () => {
                 </div>
                 <div className=" pb-4">
 
-                <div className="row gap-3 m-4">
+                <div className="row gap-3 m-4 text-center">
                     <div className="col-sm bg-black p-3 rounded">
-                        
+                        <p className="fw-bold">CV and Cover Letter Writing</p>
+                        <p>Your CV and cover letter are often your first impression with potential employers. Our professional writing service ensures that your application materials stand out. We tailor each CV and cover letter to highlight your strengths, skills, and experiences, presenting you as the ideal candidate for the job. With our expert touch, you’ll confidently present your qualifications and make a lasting impression.</p>
                     </div>
                     <div className="col-sm bg-black p-3 rounded">
-
+                        <p className="fw-bold">Training and Coaching</p>
+                        <p>Success in your career requires more than just securing a job; it involves continuous learning and development. Our training and coaching services are designed to enhance your skills and prepare you for the demands of your new role. Whether you need industry-specific training, interview coaching, or guidance on career development, our experts provide personalized support to help you thrive in your career.</p>
                     </div>
                     <div className="col-sm bg-black p-3 rounded">
-
+                        <p className="fw-bold">Employment Procurement</p>
+                        <p>We specialize in matching talented individuals with top companies across the UK, Poland, Canada, and Australia. Our recruitment service is personalized to ensure that we find the right fit for both the candidate and the employer. We work with over 100 companies in various industries, offering opportunities in healthcare, IT, education, hospitality, construction, and more. Whatever your field, we have the connections and expertise to help you find your next role.</p>
                     </div>
                 </div>
                 </div>
