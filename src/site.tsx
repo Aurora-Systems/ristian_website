@@ -227,7 +227,7 @@ const Site = () => {
                 <p>
                     Whether you're looking to advance your career or explore new opportunities abroad, Ristian Consultancy is here to help you achieve your goals. Explore our job listings, submit your CV, and let us connect you with the right employers.
                     <br />
-                    Send an email to <a href="mailto:info@ristian.co.zw">info@ristianconsultancy.co.zw</a>
+                    Send an email to <a href="mailto:info@ristian.co.zw">info@ristian.co.zw</a>
                     <br/>
                     Call on <a href="tel:+263771939493">+263 77 193 9493</a>
                 </p>
