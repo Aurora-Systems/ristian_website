@@ -67,27 +67,6 @@ const Individuals = () => {
 
                 </div>
             </div>
-            <div className="container-fluid">
-                <div className="row">
-                    <div className="col-sm bg-black order-md-2 text-white p-5 align-items-center d-flex">
-                        <div>
-                            <h1>Our Expertise</h1>
-                            <p>We are dedicated to finding the perfect match between candidates and employers. Whether
-                                you're an experienced professional or just starting your career, our extensive network
-                                spans various industries, ensuring that we have the right opportunity for you.</p>
-                            <a href="https://wa.me/263771939493" target="_blank">
-                                <button className="btn primary_button">Get In Touch</button>
-                            </a>
-                        </div>
-
-                    </div>
-                    <div className="col-sm p-5"
-                         style={{...bg_img("https://ngratesc.sirv.com/ristian/home_third.jpg"), minHeight: "50vh"}}>
-
-                    </div>
-
-                </div>
-            </div>
             <div className="container-fluid mt-5 mb-5">
                 <div>
                     <h1 className="text-black display-1 fw-bold text-center">Why Us?</h1>
